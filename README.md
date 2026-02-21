@@ -1,7 +1,9 @@
 # AppLovin (APP) — Computational Narrative Analysis
 This project integrates SEC financial data, earnings call NLP, governance analysis, and event-driven volatility mapping to examine whether operational transformation aligns with market valuation — without issuing buy/sell recommendations.
 
-Click the link below to view the full interactive notebook deployed on the Wolfram Cloud.
+### Interactive Notebook (Full Report)
+
+Wolfram Cloud Deployment:  
 https://www.wolframcloud.com/obj/xunli4/MyPortfolioPage
 
 ## Project Scope
