@@ -12,3 +12,12 @@ https://www.wolframcloud.com/obj/xunli4/MyPortfolioPage
 - Developed event-driven volatility mapping  
 - Performed margin structure decomposition  
 - Conducted peer valuation comparison
+
+## Core Competencies Demonstrated
+
+- Narrative-driven financial storytelling  
+- Cross-domain data synthesis  
+- NLP-based transcript analysis  
+- Event-based market reaction mapping  
+- Margin structure decomposition logic  
+- Comparative valuation contextualization
